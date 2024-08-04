@@ -11,9 +11,10 @@ cnomatix is a comprehensive suite of digital manufacturing software solutions de
 This repository contains a comprehensive simulation of a spot welding cell created using Technomatix Process Simulate software. This project demonstrates the construction, operation, and potential applications of a spot welding cell, aligning with the principles of Industry 4.0 and advanced automation.
 
 ## Video Demonstration
-![Spot Welding Cell Simulation](path/to/video/filename.mp4)  
-[View the simulation video](path/to/video/filename.mp4)
 
+https://github.com/user-attachments/assets/da71eb0f-2516-49c7-a1b5-bbc6ee1cd54c.mp4
+
+[View the simulation video]("https://github.com/tejascw/Tecnomatix/blob/main/Simulation%20video/Spot%20Welding%20Cell.mp4")
 ## Table of Contents
 - [Construction of the Spot Welding Cell](#construction-of-the-spot-welding-cell)
 - [Working of the Spot Welding Cell](#working-of-the-spot-welding-cell)
