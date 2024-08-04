@@ -23,7 +23,6 @@ https://github.com/user-attachments/assets/da71eb0f-2516-49c7-a1b5-bbc6ee1cd54c.
 - [How the Simulation was Created](#how-the-simulation-was-created)
 - [System Requirements](#system-requirements)
 - [Installation and Setup](#installation-and-setup)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Construction of the Spot Welding Cell
@@ -65,9 +64,6 @@ The cell operates by automating the spot welding process, which includes:
    ```
 2. **Install Required Software**: Ensure you have Technomatix Process Simulate installed.
 3. **Run the Simulation**: Open the project file in Technomatix and run the simulation.
-
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
