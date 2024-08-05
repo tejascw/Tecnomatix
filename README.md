@@ -15,7 +15,9 @@ This repository contains a comprehensive simulation of a spot welding cell creat
 
 ## Video Demonstration
 
+
 https://github.com/user-attachments/assets/da71eb0f-2516-49c7-a1b5-bbc6ee1cd54c.mp4
+
 
 [View the simulation video](https://github.com/tejascw/Tecnomatix/blob/main/Simulation%20video/Spot%20Welding%20Cell.mp4)
 ## Table of Contents
