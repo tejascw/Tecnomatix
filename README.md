@@ -82,7 +82,9 @@ This repository contains a detailed simulation of a box pick and place robot cel
 
 ## Video Demonstration
 
-https://github.com/user-attachments/assets/4111770f-cae0-4d94-8c38-83ef846ec2da
+https://github.com/user-attachments/assets/73ba466f-7168-41b9-86f3-ffa54cc909e2.mp4
+
+
 
 [View the simulation video](https://github.com/tejascw/Tecnomatix/blob/main/Simulation%20video/Box%20Pick%20and%20Place%20Robot%20Cell.mp4)
 
